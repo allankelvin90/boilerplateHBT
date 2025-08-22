@@ -30,8 +30,8 @@ const SkillIconMap = {
 // -------------------- TEMPLATE DE CONFIGURAÇÃO --------------------
 const DEFAULT_CONFIG = {
   person: {
-    name: "Seu Nome",
-    roleHighlight: "Sua Stack",
+    name: "Joaquim - Noite sem pressa",
+    roleHighlight: "Desempregado",
     tagline:
       "Sua mensagem de impacto.",
     location: "Sua Cidade, Seu Estado, País",
